@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="AFAAW-704030720" Modified="2017-07-30 02:41:12 +1000" ModID="C987C5F8-92E2-4B46-B4D0-824EF87C4614">
+    <Binder>
+        <BinderItem ID="13" UUID="8290031F-83D1-4DF5-B35B-87877F81B852" Created="2010-10-27 01:33:29 +1000" Modified="2016-07-11 23:40:08 +1000" Type="Text">
+            <Title>Screenplay Format</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Information.tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+        </BinderItem>
+        <BinderItem ID="0" UUID="915745DD-9647-4CE0-B9FC-A870C9929AE5" Created="2007-03-26 11:41:05 +1000" Modified="2017-07-29 21:22:29 +1000" Type="DraftFolder">
+            <Title>剧本</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="19" UUID="42A9D144-2FD3-45F9-9E36-B7199B8B7B2C" Created="2010-10-27 01:37:05 +1000" Modified="2017-07-29 21:24:54 +1000" Type="Folder">
+                    <Title>雪莉线</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="3" UUID="C29CEC09-3AA6-4B61-B21F-40DDFAA2F6A8" Created="2007-03-26 11:41:05 +1000" Modified="2017-07-29 21:25:01 +1000" Type="Text">
+                            <Title>第一日</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="18" UUID="8F7756A0-B611-4941-B6DB-BBDA4FD1B11D" Created="2010-10-19 23:06:35 +1000" Modified="2017-07-29 21:22:55 +1000" Type="Folder">
+            <Title>角色</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Characters (Photo).tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="54" UUID="7459D677-E191-46C9-9A6C-2B5F36907234" Created="2017-07-30 00:58:43 +1000" Modified="2017-07-30 00:59:06 +1000" Type="Text">
+                    <Title>说明</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>128,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="55" UUID="99FF9F8B-C568-41E7-8A91-968D663534F0" Created="2017-07-30 00:59:19 +1000" Modified="2017-07-30 00:59:40 +1000" Type="Text">
+                    <Title>雪莉·布鲁明顿</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="56" UUID="AC2FC8AB-FD9F-4F9F-8E81-9FCC077DF0D3" Created="2017-07-30 00:59:59 +1000" Modified="2017-07-30 01:00:15 +1000" Type="Text">
+                    <Title>安瞳</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="57" UUID="37ADEDAC-8E87-4076-A37B-11254701F15C" Created="2017-07-30 01:00:23 +1000" Modified="2017-07-30 01:00:38 +1000" Type="Text">
+                    <Title>蕾妮·沃斯托齐娅</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="58" UUID="708B92B2-5843-4F48-B8F5-3FCCC25E0F73" Created="2017-07-30 01:00:46 +1000" Modified="2017-07-30 01:01:06 +1000" Type="Text">
+                    <Title>夏澄</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="59" UUID="DA048597-2353-4729-AC2F-DB6B082360DF" Created="2017-07-30 01:01:15 +1000" Modified="2017-07-30 01:01:34 +1000" Type="Text">
+                    <Title>李思未</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="60" UUID="5490F37E-4688-4861-BAAF-741512874D8F" Created="2017-07-30 01:01:44 +1000" Modified="2017-07-30 01:02:01 +1000" Type="Text">
+                    <Title>祖·亚夫</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="61" UUID="D20A5FB1-7833-4BC0-9375-4AB2E87E627E" Created="2017-07-30 01:02:12 +1000" Modified="2017-07-30 01:02:25 +1000" Type="Text">
+                    <Title>伊宾</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="62" UUID="51E663D5-3F43-422F-AB5C-F2CD4FF47264" Created="2017-07-30 01:02:33 +1000" Modified="2017-07-30 01:02:47 +1000" Type="Text">
+                    <Title>巫敬牧</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="63" UUID="525AB9EE-4E60-442E-B2C9-5B3F3557245D" Created="2017-07-30 01:02:55 +1000" Modified="2017-07-30 01:03:08 +1000" Type="Text">
+                    <Title>枭</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="64" UUID="734FE6F5-5BA2-40DD-B355-E36B98F2569B" Created="2017-07-30 01:03:18 +1000" Modified="2017-07-30 01:03:32 +1000" Type="Text">
+                    <Title>吕观婷/黑雁</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="65" UUID="9024C37F-ACA7-4964-A75A-BFE8379A5E22" Created="2017-07-30 01:03:42 +1000" Modified="2017-07-30 01:03:55 +1000" Type="Text">
+                    <Title>蕾蓓嘉·兰道</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="17" UUID="1AAF6DF7-D218-4922-88D6-CCFBFF37CF0B" Created="2010-10-19 23:06:37 +1000" Modified="2017-07-29 21:23:00 +1000" Type="Folder">
+            <Title>地点</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Locations (Map).tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+        </BinderItem>
+        <BinderItem ID="1" UUID="3D233E84-3536-465D-9D00-BEEBFE7D1079" Created="2007-03-26 11:41:05 +1000" Modified="2017-07-29 21:23:28 +1000" Type="ResearchFolder">
+            <Title>设定</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="31" UUID="981E41C1-D44A-46AF-8293-FC3459458654" Created="2017-07-29 21:27:48 +1000" Modified="2017-07-29 21:27:59 +1000" Type="Text">
+                    <Title>简介</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="30" UUID="D524955B-8171-455B-B14B-B85BE331F938" Created="2017-07-29 21:26:41 +1000" Modified="2017-07-29 21:26:43 +1000" Type="Folder">
+                    <Title>用语</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="32" UUID="67884BB8-8D1C-4356-A44E-4A7C7D0D1DA2" Created="2017-07-29 21:28:21 +1000" Modified="2017-07-29 21:28:53 +1000" Type="Text">
+                            <Title>魔力</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>89,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="34" UUID="23E260E7-B10C-4CB4-A395-F65D7692BF4F" Created="2017-07-29 21:30:01 +1000" Modified="2017-07-29 21:30:13 +1000" Type="Text">
+                            <Title>反魔力</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="35" UUID="334AAA59-500B-43B4-A30D-682CD4D1EEC2" Created="2017-07-29 21:30:23 +1000" Modified="2017-07-29 21:30:36 +1000" Type="Text">
+                            <Title>魔学</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>269,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="36" UUID="E7063AA0-6D02-44FF-AE77-24FC9B7E4A4F" Created="2017-07-29 21:30:52 +1000" Modified="2017-07-29 21:36:59 +1000" Type="Text">
+                            <Title>秘仪</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>377,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="37" UUID="66636172-BB52-40A1-B074-7828793C5D85" Created="2017-07-29 21:37:13 +1000" Modified="2017-07-29 21:37:30 +1000" Type="Text">
+                            <Title>炼金术</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="38" UUID="7BA30171-4E50-4F0D-BEEC-70B16254E9C5" Created="2017-07-29 21:37:42 +1000" Modified="2017-07-29 21:37:49 +1000" Type="Text">
+                            <Title>占星术</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>919,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="39" UUID="0A4683D9-594E-4FC3-9DB4-8BE110CF6EA5" Created="2017-07-29 21:38:06 +1000" Modified="2017-07-29 21:38:14 +1000" Type="Text">
+                            <Title>通神术</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>172,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="40" UUID="5EA67B96-6563-4918-AC2F-D0796CE5ED68" Created="2017-07-29 21:42:16 +1000" Modified="2017-07-29 21:42:33 +1000" Type="Text">
+                            <Title>魔法</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>819,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="41" UUID="C626EF33-4328-4302-AB8D-08396143DCBB" Created="2017-07-29 21:42:45 +1000" Modified="2017-07-29 21:42:54 +1000" Type="Text">
+                            <Title>仪阵</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1043,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="42" UUID="650927BE-148E-4974-A638-3CC75CD648B4" Created="2017-07-29 21:43:58 +1000" Modified="2017-07-29 21:44:16 +1000" Type="Text">
+                            <Title>灵因</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="43" UUID="E6F6AFC2-8CFC-40E4-8392-3A0C6DDFEDD1" Created="2017-07-29 22:18:32 +1000" Modified="2017-07-29 22:18:46 +1000" Type="Text">
+                            <Title>灵涌</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="44" UUID="BA56885E-009E-40C5-ACC8-CB9ED992817B" Created="2017-07-29 22:18:56 +1000" Modified="2017-07-29 22:19:03 +1000" Type="Text">
+                            <Title>精灵</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>495,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="45" UUID="51106128-9A76-4BA1-A751-FBBE74E7F6B4" Created="2017-07-29 22:19:14 +1000" Modified="2017-07-29 22:19:31 +1000" Type="Text">
+                            <Title>觅途者泽费罗斯</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="46" UUID="5A035E2F-DEA6-4E4D-AA85-BAB7C980ECFD" Created="2017-07-29 22:19:41 +1000" Modified="2017-07-29 22:19:53 +1000" Type="Text">
+                            <Title>通远社区图书馆</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>644,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="47" UUID="30224685-2855-4460-B2EB-23B8661BDF8E" Created="2017-07-29 22:20:02 +1000" Modified="2017-07-29 22:20:15 +1000" Type="Text">
+                            <Title>驱魔</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="49" UUID="A181A4A6-93F8-45C1-A880-05CE4318FC2A" Created="2017-07-29 22:30:04 +1000" Modified="2017-07-29 22:30:51 +1000" Type="Text">
+                            <Title>叙拉古的巴卡兹</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1117,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="69" UUID="D4DDC291-CA14-487D-80B7-E0B9C73432FD" Created="2017-07-30 02:40:31 +1000" Modified="2017-07-30 02:40:52 +1000" Type="Text">
+                                    <Title>叙拉古转生谱系</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>945,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="50" UUID="88857F4C-A2C3-4EC2-9B48-4AC7B8863543" Created="2017-07-30 00:57:00 +1000" Modified="2017-07-30 00:57:18 +1000" Type="Text">
+                            <Title>恶魔</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>788,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="51" UUID="6306A1E2-3870-4688-840B-21D7C85CFF91" Created="2017-07-30 00:57:28 +1000" Modified="2017-07-30 00:57:44 +1000" Type="Text">
+                            <Title>雅蕾恩之书</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>408,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="52" UUID="F9555B35-52EA-4F95-9082-2B12E02D51B8" Created="2017-07-30 00:57:52 +1000" Modified="2017-07-30 00:58:08 +1000" Type="Text">
+                            <Title>圣剑修会</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>738,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="53" UUID="AAC52B39-EED2-49E3-92F0-1370761F9516" Created="2017-07-30 00:58:18 +1000" Modified="2017-07-30 00:58:32 +1000" Type="Text">
+                            <Title>阿拉莫戈多事件</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="66" UUID="789621AB-892F-4E27-8BA7-6740B65EEA66" Created="2017-07-30 01:04:30 +1000" Modified="2017-07-30 01:04:32 +1000" Type="Folder">
+                    <Title>组织</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="67" UUID="C22CC4BE-CC34-47A7-B9AF-EFCB65D7A96D" Created="2017-07-30 01:04:40 +1000" Modified="2017-07-30 01:04:43 +1000" Type="Folder">
+                            <Title>忒罗斯</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="48" UUID="3AADF3F1-9741-47FE-BF7F-11D0332E7AED" Created="2017-07-29 22:20:23 +1000" Modified="2017-07-29 22:20:55 +1000" Type="Text">
+                                    <Title>忒罗斯</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="68" UUID="4AE12DE3-CBFF-4756-ABF8-40356E5EB2C7" Created="2017-07-30 01:04:57 +1000" Modified="2017-07-30 01:09:50 +1000" Type="Text">
+                                    <Title>忒罗斯下属组织结构</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>2304,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="14" UUID="CD90B5BD-8422-466D-99AD-E513F73A86FB" Created="2010-10-19 23:57:18 +1000" Modified="2017-07-29 21:23:36 +1000" Type="Folder">
+            <Title>模板</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="28" UUID="1E2ECFA2-8A29-4DEE-AC21-4AA02E83E8B2" Created="2016-06-28 17:20:24 +1000" Modified="2017-07-29 21:23:54 +1000" Type="Text">
+                    <Title>角色设定</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>32,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="27" UUID="7F5DCFE9-9802-42A4-9833-997D0E643EAB" Created="2016-06-28 17:20:24 +1000" Modified="2017-07-29 21:24:36 +1000" Type="Text">
+                    <Title>用语</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Locations (Location Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>33,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="2" UUID="88E66AF9-1956-4920-B626-CC2C0B23B6EF" Created="2007-03-26 11:41:05 +1000" Modified="2017-07-29 21:24:40 +1000" Type="TrashFolder">
+            <Title>垃圾箱</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="22" UUID="3EFF72C1-CD4D-4BD7-BF67-FF3A5F308E31" Created="2013-02-27 01:40:04 +1000" Modified="2013-02-27 01:40:07 +1000" Type="Folder">
+                    <Title>Front Matter</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Front Matter.tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="23" UUID="8D8AEC65-4720-4037-A328-314EA604CD6F" Created="2016-06-28 17:07:32 +1000" Modified="2016-06-28 17:19:52 +1000" Type="Text">
+                            <Title>Title Page</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="26" UUID="8F819863-A802-4DDD-9A28-38F865CFA1BF" Created="2016-06-28 17:17:57 +1000" Modified="2016-06-28 17:18:53 +1000" Type="PDF">
+                    <Title>Sample Script</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>1</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem ID="29" UUID="EFC54136-F7AD-48DC-8DB5-D7D26D2361A7" Created="2017-07-29 21:26:31 +1000" Modified="2017-07-29 21:27:05 +1000" Type="Folder">
+                    <Title>角色设定</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="33" UUID="75BEAE83-B648-40E1-B2CF-07512242CB9A" Created="2017-07-29 21:29:13 +1000" Modified="2017-07-29 21:29:44 +1000" Type="Text">
+                    <Title>反魔力</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>398,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="1" Color="0.901961 0.921569 0.952941">Concept</Label>
+            <Label ID="2" Color="0.988235 0.874510 0.850980">Chapter</Label>
+            <Label ID="0" Color="0.913725 0.098039 0.184314">Character Notes</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <TemplateFolderUUID>CD90B5BD-8422-466D-99AD-E513F73A86FB</TemplateFolderUUID>
+    <ProjectTargets>
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-21 11:44:59 +0100" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
+        <PreviousSession Words="5447" Characters="62775" Date="2017-07-29 21:13:15 +1000"/>
+    </ProjectTargets>
+    <Collections>
+        <Collection Type="Binder" ID="6AE1732B-8E66-4B56-B7E2-C7B1462B31DB" Color="0.901961 0.917647 0.933333">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="68DB4E73-0B33-4FEE-9600-053ED547B6DC" Color="0.901961 0.901961 0.980392">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No"></SearchSettings>
+        </Collection>
+    </Collections>
+    <PrintSettings PaperType="Letter" LeftMargin="72.0001" RightMargin="72.0001" TopMargin="90.0002" BottomMargin="90.0002" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+</ScrivenerProject>
