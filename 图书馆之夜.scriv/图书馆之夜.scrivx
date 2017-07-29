@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="AFAAW-704030720" Modified="2017-07-30 02:41:12 +1000" ModID="C987C5F8-92E2-4B46-B4D0-824EF87C4614">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="AFAAW-704030720" Modified="2017-07-30 03:33:17 +1000" ModID="87D3A5E9-6B17-4496-8A7E-4513DE5A2702">
     <Binder>
         <BinderItem ID="13" UUID="8290031F-83D1-4DF5-B35B-87877F81B852" Created="2010-10-27 01:33:29 +1000" Modified="2016-07-11 23:40:08 +1000" Type="Text">
             <Title>Screenplay Format</Title>
@@ -41,7 +41,7 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="3" UUID="C29CEC09-3AA6-4B61-B21F-40DDFAA2F6A8" Created="2007-03-26 11:41:05 +1000" Modified="2017-07-29 21:25:01 +1000" Type="Text">
+                        <BinderItem ID="3" UUID="C29CEC09-3AA6-4B61-B21F-40DDFAA2F6A8" Created="2007-03-26 11:41:05 +1000" Modified="2017-07-30 02:50:25 +1000" Type="Text">
                             <Title>第一日</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -212,12 +212,13 @@
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="31" UUID="981E41C1-D44A-46AF-8293-FC3459458654" Created="2017-07-29 21:27:48 +1000" Modified="2017-07-29 21:27:59 +1000" Type="Text">
+                <BinderItem ID="31" UUID="981E41C1-D44A-46AF-8293-FC3459458654" Created="2017-07-29 21:27:48 +1000" Modified="2017-07-30 03:32:56 +1000" Type="Text">
                     <Title>简介</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
+                        <TextSelection>824,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -590,6 +591,15 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="70" UUID="17FF562E-F5CA-4F13-95C8-72E977E142D3" Created="2017-07-30 02:58:53 +1000" Modified="2017-07-30 02:58:53 +1000" Type="Text">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -619,7 +629,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-21 11:44:59 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="5447" Characters="62775" Date="2017-07-29 21:13:15 +1000"/>
+        <PreviousSession Words="71" Characters="824" Date="2017-07-30 02:50:24 +1000"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="6AE1732B-8E66-4B56-B7E2-C7B1462B31DB" Color="0.901961 0.917647 0.933333">
